@@ -1,0 +1,6 @@
+{
+  "name": "Orchestra Enterprise",
+  "description": "Enterprise-grade task orchestration and workforce operations control center with real-time analytics, messaging, and approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
